@@ -1,1 +1,1 @@
-<img src='FlowMind.png' style="height: 30px;"/> # FlowMind
+<img src='FlowMind.png' style="height: 20px;"/> #FlowMind
