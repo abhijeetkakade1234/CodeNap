@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="FlowMind.png" alt="FlowMind" height="100"/>
+  <img src="FlowMind.png" alt="FlowMind" height="20"/>
   <b>FlowMind</b>
 </p>
