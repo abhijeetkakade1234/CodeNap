@@ -1,2 +1,2 @@
 # FlowMind
-<img src='FlowMind.png' style="height: 20px;"/>
+<img src='FlowMind.png' style="height: 50px;"/>
