@@ -1,1 +1,4 @@
-<img src='FlowMind.png' alt='FlowMind' style='height: 20px;'/> <p>FlowMind</p>
+<p align="center">
+  <img src="FlowMind.png" alt="FlowMind" height="100"/><br>
+  <b>#FlowMind</b>
+</p>
