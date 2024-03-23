@@ -42,5 +42,7 @@ For support or inquiries, please email us at abhijeetskakade04@gmail.com.
 
 ---
 
-![Flowchart](flowchart.png)
+## Flowchart
+<img src="flowchart.png" alt="FlowChart" height="100"/>
+
 
