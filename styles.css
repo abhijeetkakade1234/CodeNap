@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #240707;
+    background-color: rgb(0, 0, 0);
     color: #fff;
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@ body {
   }
   
   h1 {
-    color: #f4c542;
+    color:#808080;
     text-align: center;
     margin-bottom: 20px;
   }
@@ -22,7 +22,7 @@ body {
     display: block;
     margin-bottom: 10px;
     padding: 5px; /* Added padding */
-    width: 200px; /* Added width */
+    width: 250px; /* Added width */
   }
   
   input[type="radio"] {
@@ -33,7 +33,7 @@ body {
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #f4c542;
+    background-color: #808080;
     color: #222;
     border: none;
     border-radius: 5px;
@@ -42,7 +42,7 @@ body {
   }
   
   button:hover {
-    background-color: #ffdb75;
+    background-color: #d9d9e2;
   }
   
   p#timer {
@@ -52,7 +52,7 @@ body {
   }
   
   a {
-    color: #f4c542;
+    color:#808080;
     text-decoration: none;
     display: block;
     text-align: center;
@@ -71,7 +71,7 @@ input[type="radio"] {
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 2px solid #f4c542; /* Border color */
+    border: 2px solid #808080; /* Border color */
     outline: none;
     cursor: pointer;
     margin-right: 10px;
@@ -79,6 +79,6 @@ input[type="radio"] {
   
   /* Custom style for checked state */
   input[type="radio"]:checked {
-    background-color: #f4c542; /* Fill color when checked */
+    background-color: #808080; /* Fill color when checked */
   }
   
