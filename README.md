@@ -43,6 +43,6 @@ For support or inquiries, please email us at abhijeetskakade04@gmail.com.
 ---
 
 ## Flowchart
-<img src="flowchart.png" alt="FlowChart" height="500"/>
+<img src="flowchart.png" alt="FlowChart" height="5000"/>
 
 
