@@ -13,10 +13,11 @@ Stay mindful and productive while browsing the web with the MindfulFlow Chrome E
 
 ## Installation
 
-1. Download the extension files from the [GitHub repository](https://github.com/abhijeetkakade1234/mindfulflow).
-2. Open Chrome and navigate to `chrome://extensions`.
-3. Enable Developer mode.
-4. Click on "Load unpacked" and select the extension directory.
+You can install the MindfulFlow Chrome Extension directly from the Chrome Web Store:
+
+[Install MindfulFlow Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
+
+Once installed, the extension will run in the background. You can customize the reminder settings by clicking on the extension icon in the Chrome toolbar.
 
 ## Usage
 
