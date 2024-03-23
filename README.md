@@ -3,7 +3,7 @@
   <b>FlowMind</b>
 </p>
 
-Stay mindful and productive while browsing the web with the MindfulFlow Chrome Extension. This extension provides reminders to take breaks, stand up, and drink water at regular intervals to avoid prolonged sitting and stay hydrated.
+Stay mindful and productive while browsing the web with the FlowMind Chrome Extension. This extension provides reminders to take breaks, stand up, and drink water at regular intervals to avoid prolonged sitting and stay hydrated.
 
 ## Features
 
@@ -13,9 +13,9 @@ Stay mindful and productive while browsing the web with the MindfulFlow Chrome E
 
 ## Installation
 
-You can install the MindfulFlow Chrome Extension directly from the Chrome Web Store:
+You can install the FlowMind Chrome Extension directly from the Chrome Web Store:
 
-[Install MindfulFlow Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
+[Install FlowMind Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
 
 Once installed, the extension will run in the background. You can customize the reminder settings by clicking on the extension icon in the Chrome toolbar.
 
