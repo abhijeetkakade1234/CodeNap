@@ -10,9 +10,9 @@
     "default_popup": "setTimer.html",
     "default_icon": "CodeNap.png",
     "default_title": "Open",
-    "16": "FlowMind.png",
-    "48": "FlowMind.png",
-    "128": "FlowMind.png"
+    "16": "CodeNap_16x16.png",
+    "48": "CodeNap_48x48.png",
+    "128": "CodeNap_128x128.png"
   },
   "permissions": ["activeTab","scripting","storage"],
   "background": {
