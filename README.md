@@ -1,9 +1,9 @@
 <p align="center">
   <img src="FlowMind.png" alt="FlowMind" height="25"/><br>
-  <b>FlowMind</b>
+  <b>CodeNap</b>
 </p>
 
-Stay mindful and productive while browsing the web with the FlowMind Chrome Extension. This extension provides reminders to take breaks, stand up, and drink water at regular intervals to avoid prolonged sitting and stay hydrated.
+Stay mindful and productive while browsing the web with the CodeNap Chrome Extension. This extension provides reminders to take breaks, stand up, and drink water at regular intervals to avoid prolonged sitting and stay hydrated.
 
 ## Features
 
@@ -13,9 +13,9 @@ Stay mindful and productive while browsing the web with the FlowMind Chrome Exte
 
 ## Installation
 
-You can install the FlowMind Chrome Extension directly from the Chrome Web Store:
+You can install the CodeNap Chrome Extension directly from the Chrome Web Store:
 
-[Install FlowMind Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
+[Install CodeNap Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
 
 Once installed, the extension will run in the background. You can customize the reminder settings by clicking on the extension icon in the Chrome toolbar.
 
