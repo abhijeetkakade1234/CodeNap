@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="FlowMind.png" alt="FlowMind" height="25"/><br>
+  <img src="CodeNap.png" alt="CodeNap" height="25"/><br>
   <b>CodeNap</b>
 </p>
 
