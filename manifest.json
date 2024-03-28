@@ -1,6 +1,6 @@
 {
   "name": "CodeNap",
-  "version": "0.01",
+  "version": "0.1.1",
   "manifest_version": 3,
   "description": "Stay mindful and productive while browsing. Get reminders to take breaks, stand up, and drink water.",
   "author": {
@@ -8,18 +8,27 @@
   },
   "action": {
     "default_popup": "setTimer.html",
-    "default_icon": "CodeNap.png",
-    "default_title": "Open",
+    "default_icon": {
     "16": "CodeNap_16x16.png",
     "32":"CodeNap_32x32.png",
     "48": "CodeNap_48x48.png",
     "128": "CodeNap_128x128.png"
+    }
+  },
+  "icons":{
+      "16":"CodeNap_16x16.png",
+      "32":"CodeNap_32x32.png",
+      "48":"CodeNap_48x48.png",
+      "128":"CodeNap_128x128.png"
   },
   "permissions": ["activeTab","scripting","storage"],
+  "content_scripts":[
+    {
+      "matches":["<all_urls>"],
+      "js":["content.js"]
+    }
+  ],
   "background": {
-    "service_worker": "background.js",
-    "type": "module"
+    "service_worker": "background.js"
   },
-  "optional_permissions": ["tabs"],
-  "optional_host_permissions": ["https://*/*"]
 }
