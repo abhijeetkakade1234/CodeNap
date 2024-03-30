@@ -6,18 +6,18 @@ body {
     padding: 0;
   }
   
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 40px; /* Increased padding */
-  }
-  
   h1 {
-    color:#808080;
+    color:#2196f3;
     text-align: center;
     margin-bottom: 20px;
   }
-  
+  h1:hover {
+    color: #008afcfb;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
   label {
     display: block;
     margin-bottom: 10px;
@@ -27,22 +27,6 @@ body {
   
   input[type="radio"] {
     margin-right: 10px;
-  }
-  
-  button {
-    display: block;
-    margin: 20px auto;
-    padding: 10px 20px;
-    background-color: #808080;
-    color: #222;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  button:hover {
-    background-color: #d9d9e2;
   }
   
   p#timer {
@@ -71,7 +55,7 @@ input[type="radio"] {
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 2px solid #808080; /* Border color */
+    border: 2px solid #2196f3; /* Border color */
     outline: none;
     cursor: pointer;
     margin-right: 10px;
@@ -79,6 +63,75 @@ input[type="radio"] {
   
   /* Custom style for checked state */
   input[type="radio"]:checked {
-    background-color: #808080; /* Fill color when checked */
+    background-color: #2196f3; /* Fill color when checked */
   }
-  
+  /* background */
+  .container {
+    width: 100%;
+    height: 100%;
+    background-color: #111111;
+    background-image: linear-gradient(
+      32deg,
+      rgba(8, 8, 8, 0.74) 30px,
+      transparent
+    );
+    background-size: 60px 60px;
+    background-position: -5px -5px;
+  }
+
+  /* button styles */
+.button-container {
+  text-align: center;
+  margin-top: 50px; /* Adjust as needed */
+}
+
+.animated-button {
+  position: relative;
+  display: inline-block;
+  vertical-align: center;
+  padding: 12px 24px;
+  border: none;
+  font-size: 16px;
+  background-color: inherit;
+  border-radius: 100px;
+  font-weight: 600;
+  color: #ffffff40;
+  box-shadow: 0 0 0 2px #ffffff20;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.animated-button span:last-child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px;
+  height: 20px;
+  background-color: #2196F3;
+  border-radius: 50%;
+  opacity: 0;
+  transition: all 0.8s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.animated-button span:first-child {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.animated-button:hover {
+  box-shadow: 0 0 0 5px #2195f360;
+  color: #ffffff;
+}
+
+.animated-button:active {
+  scale: 0.95;
+}
+
+.animated-button:hover span:last-child {
+  width: 150px;
+  height: 150px;
+  opacity: 1;
+}
