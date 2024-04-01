@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CodeNap.png" alt="CodeNap" height="25"/><br>
+  <img src="img/CodeNap.png" alt="CodeNap" height="25"/><br>
   <b>CodeNap</b>
 </p>
 
@@ -43,6 +43,6 @@ For support or inquiries, please email us at abhijeetskakade04@gmail.com.
 ---
 
 ## Flowchart
-<img src="flowchart.png" alt="FlowChart" height="5000"/>
+<img src="img/flowchart.png" alt="FlowChart" height="5000"/>
 
 
