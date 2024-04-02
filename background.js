@@ -1,9 +1,11 @@
+let selectedTime = null; // Initialize selectedTime outside the message listener
+
 // Listen for messages from the content script
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
   console.log('Message received from UI:', message);
 
   // Get the selected time from the message
-  let selectedTime = message.selectedTime;
+  selectedTime = message.selectedTime;
   console.log('Selected time:', selectedTime);
 
   // Schedule the first reminder
@@ -24,7 +26,7 @@ chrome.alarms.onAlarm.addListener(function (alarm) {
       iconUrl: "img/CodeNap.png",
       title: "It's time for a break!",
       message: "Stand up, stretch, and drink some water.",
-      silent: false,
+      silent: false, // Notification will not be silent
     });
 
     // Schedule the next reminder
