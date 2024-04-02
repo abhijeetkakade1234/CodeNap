@@ -9,17 +9,17 @@
   "action": {
     "default_popup": "setTimer.html",
     "default_icon": {
-    "16": "CodeNap_16x16.png",
-    "32":"CodeNap_32x32.png",
-    "48": "CodeNap_48x48.png",
-    "128": "CodeNap_128x128.png"
+    "16": "img/CodeNap_16x16.png",
+    "32":"img/CodeNap_32x32.png",
+    "48": "img/CodeNap_48x48.png",
+    "128": "img/CodeNap_128x128.png"
     }
   },
   "icons":{
-      "16":"CodeNap_16x16.png",
-      "32":"CodeNap_32x32.png",
-      "48":"CodeNap_48x48.png",
-      "128":"CodeNap_128x128.png"
+      "16":"img/CodeNap_16x16.png",
+      "32":"img/CodeNap_32x32.png",
+      "48":"img/CodeNap_48x48.png",
+      "128":"img/CodeNap_128x128.png"
   },
   "permissions": ["activeTab","scripting","storage","alarms","notifications"],
   "content_scripts":[
