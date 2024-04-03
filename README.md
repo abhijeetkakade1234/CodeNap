@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For support or inquiries, please email us at abhijeetskakade04@gmail.com.
+For support or inquiries, please email us at abhijeetskakade0b@gmail.com.
 
 ---
 
