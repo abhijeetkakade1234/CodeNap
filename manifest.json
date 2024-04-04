@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "Stay mindful and productive while browsing. Get reminders to take breaks, stand up, and drink water.",
   "author": {
-    "email": "abhijeetskakade04@gmail.com"
+    "email": "abhijeetskakade0b@gmail.com"
   },
   "action": {
     "default_popup": "setTimer.html",
