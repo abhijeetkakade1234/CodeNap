@@ -15,7 +15,7 @@ Stay mindful and productive while browsing the web with the CodeNap Chrome Exten
 
 You can install the CodeNap Chrome Extension directly from the Chrome Web Store:
 
-[Install CodeNap Chrome Extension](https://chrome.google.com/webstore/detail/mindfulflow-extension/your-extension-id)
+[Install CodeNap Chrome Extension](https://chromewebstore.google.com/detail/codenap/cngpijpkdmnlgljdkljbggmoidcifhan)
 
 Once installed, the extension will run in the background. You can customize the reminder settings by clicking on the extension icon in the Chrome toolbar.
 
