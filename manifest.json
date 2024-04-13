@@ -21,7 +21,7 @@
       "48":"img/CodeNap_48x48.png",
       "128":"img/CodeNap_128x128.png"
   },
-  "permissions": ["activeTab","alarms","notifications"],
+  "permissions": ["alarms","notifications"],
   "content_scripts":[
     {
       "matches":["<all_urls>"],
