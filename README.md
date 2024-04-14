@@ -4,7 +4,7 @@
 </p>
 
 Stay mindful and productive while browsing the web with the CodeNap Chrome Extension. This extension provides reminders to take breaks, stand up, and drink water at regular intervals to avoid prolonged sitting and stay hydrated.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Features
 
 - Set reminders at customizable intervals (30 minutes, 45 minutes, 1 hour, or a maximum of 2 hours).
