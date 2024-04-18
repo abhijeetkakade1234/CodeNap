@@ -35,5 +35,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // If a radio button is checked, send a message to the background script with the selected time
         let selectedTime = document.querySelector('input[name="timer"]:checked').value;
         chrome.runtime.sendMessage({selectedTime: selectedTime});
+
+        // Alert the user that the timer has been set for the selected time
+        alert(`Timer has been set for ${selectedTime} minutes`);
     });
 });
