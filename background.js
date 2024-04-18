@@ -1,4 +1,4 @@
-let selectedTime = 30; // Initialize selectedTime if no Default timer is set
+let selectedTime = 60; // Initialize selectedTime if no Default timer is set
 
 // Listen for messages from the content script
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
