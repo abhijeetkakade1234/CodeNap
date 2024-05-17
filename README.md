@@ -41,6 +41,12 @@ Once installed, the extension will run in the background.
 2. Notification alert.
    <img src="img/notification alert.png" alt="Notification Alert"/>
 
+> [!IMPORTANT]
+> 
+> - The extension sends notifications. If **Do Not Disturb** mode is enabled, you will not receive these notifications.
+> - Notifications will not appear when you are in full-screen mode, such as while watching videos on YouTube or Netflix.
+
+
 ## Contributing
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
