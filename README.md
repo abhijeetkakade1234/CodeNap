@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/CodeNap.png" alt="CodeNap" height="25"/><br>
+  <img src="img/CodeNap.png" alt="CodeNap" height="2500"/><br>
   <b>CodeNap</b>
 </p>
 
